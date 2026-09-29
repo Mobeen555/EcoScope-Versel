@@ -1,0 +1,10 @@
+.env
+.env.local
+.venv/
+node_modules/
+.local-data/
+tests/
+docs/
+__pycache__/
+**/__pycache__/
+*.zip
